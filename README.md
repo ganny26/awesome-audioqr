@@ -79,3 +79,8 @@ Today, NSDT is primarily used for mobile banking transactions through the mobile
 * [FreeCharge, ToneTag Partner to Bring Sound-Based Payments Feature ](http://gadgets.ndtv.com/apps/news/freecharge-tonetag-partner-to-bring-sound-based-payments-feature-1659013)
 * [Yes Bank mobile wallet now transfers data using sound](https://indianceo.in/news/yes-bank-mobile-wallet-uses-sound/)
 * [Cash is over: What are the payment methods of the future?](http://www.20minutes.fr/high-tech/392080-20100319-cash-fini-modes-paiement-futur)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
