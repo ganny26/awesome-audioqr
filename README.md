@@ -3,11 +3,8 @@
 > A curated list of Audio QR is the technology / NSDT resources and projects
 *Inspired by [awesome](https://github.com/sindresorhus) list things*
 
-It's now a GitHub project because it's considerably easier for other people to edit, fix and expand
-Just click README.md to submit a pull request
-If this list is not complete, you can contribute to make it so.
 
-#### *If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request][editREADME] to improve this file. Thank you!*
+#### *If you see a link here that is not (any longer) a good fit, you can fix it by submitting a pull request to improve this file. Thank you!*
 
 # Contents
 
@@ -67,7 +64,7 @@ Today, NSDT is primarily used for mobile banking transactions through the mobile
 
 # Articles
 * [Alipay Launches Sound Wave Mobile Payments System In Beijing Subway](https://techcrunch.com/2013/04/14/alipay-launches-sound-wave-mobile-payments-system-in-beijing-subway/)
-* [https://www.chirp.io/case-studies](https://www.chirp.io/case-studies()
+* [https://www.chirp.io/case-studies](https://www.chirp.io/case-studies)
 * [Naratte: Mobile payments using sound waves](https://www.cnet.com/news/naratte-mobile-payments-using-sound-waves/)
 * [Google’s new payment app for India uses sound to transfer money](https://www.theverge.com/2017/9/18/16325004/tez-google-india-audio-qr-cash-payments)
 * [Secure electronic transactions using ... sound](http://www.ebrc.com/NewsRoom/Press-Articles/secure-electronic-transactions-using-sound)
