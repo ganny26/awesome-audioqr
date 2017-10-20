@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+.idea
+
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+node_modules
