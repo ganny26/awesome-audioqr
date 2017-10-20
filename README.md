@@ -1,4 +1,4 @@
-# Awesome Audio QR / Near Sound Data transfer(NSDT)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Audio QR / Near Sound Data transfer(NSDT)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Build Status](https://travis-ci.org/ganny26/awesome-audioqr.svg?branch=master)](https://travis-ci.org/ganny26/awesome-audioqr)
 
 > A curated list of Audio QR is the technology / NSDT resources and projects
 *Inspired by [awesome](https://github.com/sindresorhus) list things*
@@ -78,3 +78,4 @@ Today, NSDT is primarily used for mobile banking transactions through the mobile
 ](https://www.theverge.com/2017/1/26/14398250/audio-over-data-chirp-iot-internet-of-things)
 * [FreeCharge, ToneTag Partner to Bring Sound-Based Payments Feature ](http://gadgets.ndtv.com/apps/news/freecharge-tonetag-partner-to-bring-sound-based-payments-feature-1659013)
 * [Yes Bank mobile wallet now transfers data using sound](https://indianceo.in/news/yes-bank-mobile-wallet-uses-sound/)
+* [Cash is over: What are the payment methods of the future?](http://www.20minutes.fr/high-tech/392080-20100319-cash-fini-modes-paiement-futur)
