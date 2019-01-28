@@ -32,11 +32,11 @@ _Source:_ [Near sound data transfer](https://en.wikipedia.org/wiki/Near_sound_da
 
 # Where it is used?
 
-Information can be transferd using Bluetooh,WiFi,NFC.What if data transferd via sound waves with a speker and microphone that is widely used by all devices.
+Information can be transferd using Bluetooh,WiFi,NFC.What if data transferd via sound waves with a speaker and microphone that is widely used by all devices.
 
-Transfering data via sound is unique technology offers almost unlimited problem-solving possibilities across all sectors, including IoT,Payment services, entertainment and television broadcasting, interactive gaming, toys, robotics, transportation and many others.
+Transfering data via sound is unique technology offers almost unlimited problem-solving possibilities across all sectors, including IoT, Payment services, entertainment and television broadcasting, interactive gaming, toys, robotics, transportation and many others.
 
-Today, NSDT is primarily used for mobile banking transactions through the mobile money platform.It is also used to securely open doors and enable authentication on websites.
+Today, NSDT is primarily used for mobile banking transactions through the mobile money platform. It is also used to securely open doors and enable authentication on websites.
 
 # Apps
 * [Tagpay](http://en.tagpay.fr/)
