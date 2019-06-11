@@ -60,7 +60,7 @@ Today, NSDT is primarily used for mobile banking transactions through the mobile
 * [Quite iOS](https://github.com/quiet/QuietModemKit)
 * [SinVoice](https://github.com/JesseGu/SinVoice)
 * [CopSonic](http://www.copsonic.com/)
-* [audio-messenger] (https://github.com/sushrut111/audio-messenger)
+* [audio-messenger](https://github.com/sushrut111/audio-messenger)
 
 
 # Articles
