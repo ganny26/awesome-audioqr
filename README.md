@@ -55,9 +55,9 @@ Today, NSDT is primarily used for mobile banking transactions through the mobile
 * [ChirpIo](https://www.chirp.io/)
 * [Tonetag](https://www.tonetag.com/)
 * [Pied Piper](https://github.com/rraval/pied-piper)
-* [Quite Android](https://github.com/quiet/org.quietmodem.Quiet)
-* [Quite JS](https://github.com/quiet/quiet-js)
-* [Quite iOS](https://github.com/quiet/QuietModemKit)
+* [Quiet Android](https://github.com/quiet/org.quietmodem.Quiet)
+* [Quiet JS](https://github.com/quiet/quiet-js)
+* [Quiet iOS](https://github.com/quiet/QuietModemKit)
 * [SinVoice](https://github.com/JesseGu/SinVoice)
 * [CopSonic](http://www.copsonic.com/)
 
